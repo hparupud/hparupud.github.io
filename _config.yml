@@ -1,3 +1,4 @@
+highligher: rogue
 title: Haritha Parupudi
 description: >
   First description
@@ -6,4 +7,7 @@ description: >
   <br><br>
 
 theme: jekyll-theme-cayman
-remote_theme: "mmistakes/minimal-mistakes"
+url: "https://hparupud.github.io"
+lsi: false
+
+permalink: pretty
